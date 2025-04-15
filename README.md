@@ -111,15 +111,6 @@ Deploy on Raspberry Pi or Jetson Nano
 
 Integrate with secure command-and-control networks
 
-🪙 License
-MIT License © 2025
-Developed for tactical research, defense innovation, and smart surveillance.
-
-🔒 Because in the field, visibility is power.
-
-vbnet
-Copy
-Edit
 
 ---
 
