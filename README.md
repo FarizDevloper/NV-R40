@@ -135,13 +135,3 @@ Want me to include a GitHub badge layout too (like Python version, license, buil
 
 
 
-
-
-
-
-## Credits
-
-Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
-
-
-<a class="pin-payment-button" href="https://saweria.co/adminpusat2024"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
