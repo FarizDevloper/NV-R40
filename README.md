@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">NV-R 40 is an advanced tactical camera system built with Python, featuring night vision, AI-based object detection (YOLO), military-style HUD, radar overlay, and telemetry logging. Designed for real-time security, defense, and surveillance applications.</h3>
+<h3 align="center">NV-R 40 V1,V2,V3 is an advanced tactical camera system built with Python, featuring night vision, AI-based object detection (YOLO), military-style HUD, radar overlay, and telemetry logging. Designed for real-time security, defense, and surveillance applications.</h3>
 
 <p align="center">
  
