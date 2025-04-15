@@ -105,9 +105,6 @@ coco.names
 ✅ After-Action Review & Intelligence Briefing
 
 🚀 Launch Instructions
-bash
-Copy
-Edit
 python tactical_thermal_camera.py
 🧰 Expandability Ideas
 Upgrade to YOLOv5 or YOLOv8
