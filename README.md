@@ -59,9 +59,6 @@ Example log:
 
 Timestamp Object Confidence X Y Width Height 2025-04-16 14:02:11 person 0.93 221 102 60 120 2025-04-16 14:02:14 vehicle 0.87 412 160 80 60
 
-yaml
-Copy
-Edit
 
 ---
 
