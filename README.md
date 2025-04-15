@@ -1,8 +1,4 @@
-🛰️ Tactical Thermal Camera NV -R 40
-
-
-
-
+🛰️ Tactical Thermal Camera
 Intelligent Thermal Imaging & Target Detection System for Defense, Recon, and Field Operations
 
 A robust Python-based thermal surveillance system engineered for military-grade field intelligence, integrating thermal vision, object detection, and a real-time tactical HUD. Designed to enhance situational awareness in low-visibility environments for operations such as recon, perimeter security, and mission monitoring.
