@@ -14,11 +14,14 @@
 </p>
 
 <p align="center">
-  <a href="" target="_blank"><img src=""></a>
-  <a href="" target="_blank"><img src=""></a>
-  <a href="https://github.com/FarizDevloper" target="_blank"><img src=""></a>
-  <a href="https://farizdevloper.blogspot.com/" target="_blank">https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white<img src=""></a>
+  <a href="https://github.com/FarizDevloper" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-FarizDevloper-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://farizdevloper.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
+  </a>
 </p>
+
 
 
 
