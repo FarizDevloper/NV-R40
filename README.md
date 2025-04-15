@@ -20,7 +20,11 @@
   <a href="https://farizdevloper.blogspot.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
   </a>
+    <a href="https://farizdevloper.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white" alt="Proton Drive">
+  </a>
 </p>
+
 
 
 
