@@ -17,7 +17,7 @@
   <a href="" target="_blank"><img src=""></a>
   <a href="" target="_blank"><img src=""></a>
   <a href="https://github.com/FarizDevloper" target="_blank"><img src=""></a>
-  <a href="https://farizdevloper.blogspot.com/" target="_blank">![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white<img src=""></a>
+  <a href="https://farizdevloper.blogspot.com/" target="_blank">https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white<img src=""></a>
 </p>
 
 
