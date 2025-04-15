@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://farizdevloper.blogspot.com/">
-    <img src="https://github.com/user-attachments/assets/83373781-da1a-4919-bbda-14c71a75de3a" alt="NV -R 40 logo">
+    <img src="https://github.com/user-attachments/assets/ea5d3ce8-7b37-4af7-bb9a-3c8371db7b9d" alt="NV -R 40 logo">
   </a>
 </p>
 
@@ -9,6 +9,7 @@
 
 # 🛰️⚡ Tactical Thermal Camera System  
 ### *"Eyes in the Dark. Intel in Real-Time."*
+
 
 > An **advanced AI-powered thermal surveillance system** engineered for **defense, tactical reconnaissance**, and **real-world field operations**.  
 > Combines **infrared thermal imaging**, **night vision**, and **real-time object detection** in one compact solution.
