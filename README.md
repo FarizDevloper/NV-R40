@@ -16,7 +16,7 @@
 <p align="center">
   <a href="" target="_blank"><img src=""></a>
   <a href="" target="_blank"><img src=""></a>
-  <a href="https://github.com/FarizDevloper" target="_blank"><img src=""></a>
+  <a href="https://github.com/FarizDevloper" target="_blank">https://github.com/FarizDevloper<img src=""></a>
   <a href="https://farizdevloper.blogspot.com/" target="_blank"><img src=""></a>
 </p>
 
