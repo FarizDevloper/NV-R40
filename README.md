@@ -10,7 +10,7 @@
  
   <br>
   <br>
-  <a href="https://wpscan.com/](https://farizdevloper.blogspot.com" title="homepage" target="_blank">NV -R 40 Camera</a> - <a href="https://wordpress.org/plugins/wpscan/" title="NV -R 40" target="_blank">R- 40</a>
+  <a href="https://wpscan.com/](https://farizdevloper.blogspot.com" title="homepage" target="_blank">NV -R 40 Camera</a> - <a href="" title="NV -R 40" target="_blank">R- 40</a>
 </p>
 
 <p align="center">
