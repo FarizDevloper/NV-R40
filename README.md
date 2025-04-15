@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <a href="https://badge.fury.io/rb/wpscan" target="_blank"><img src="https://badge.fury.io/rb/wpscan.svg"></a>
-  <a href="https://hub.docker.com/r/wpscanteam/wpscan/" target="_blank"><img src="https://img.shields.io/docker/pulls/wpscanteam/wpscan.svg"></a>
-  <a href="https://github.com/FarizDevloper" target="_blank"><img src="https://github.com/wpscanteam/wpscan/workflows/Build/badge.svg"></a>
-  <a href="https://farizdevloper.blogspot.com/" target="_blank"><img src="https://codeclimate.com/github/wpscanteam/wpscan/badges/gpa.svg"></a>
+  <a href="" target="_blank"><img src=""></a>
+  <a href="" target="_blank"><img src=""></a>
+  <a href="https://github.com/FarizDevloper" target="_blank"><img src=""></a>
+  <a href="https://farizdevloper.blogspot.com/" target="_blank"><img src=""></a>
 </p>
 
 
