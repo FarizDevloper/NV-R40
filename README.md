@@ -68,13 +68,7 @@
 All mission data is saved to:
 
 camera sensor panas/ ├── recording_YYYYMMDD_HHMMSS.avi ├── snapshot_YYYYMMDD_HHMMSS.jpg └── telemetry_log.txt
-
-bash
-Copy
-Edit
-
 Example log:
-
 Timestamp Object Confidence X Y Width Height 2025-04-16 14:02:11 person 0.93 221 102 60 120 2025-04-16 14:02:14 vehicle 0.87 412 160 80 60
 
 
@@ -87,9 +81,6 @@ Timestamp Object Confidence X Y Width Height 2025-04-16 14:02:11 person 0.93 221
 ```bash
 pip install opencv-python numpy scipy
 2. (Optional) Install MLX90640 support
-bash
-Copy
-Edit
 pip install adafruit-circuitpython-mlx90640
 3. Download YOLOv3 model files
 Download the following files and place them in your project directory:
