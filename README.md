@@ -130,3 +130,18 @@ Integrate with secure command-and-control networks
 - For visual appeal, add a screenshot or short GIF of the system in action right under the first section (optional but highly recommended).
 
 Want me to include a GitHub badge layout too (like Python version, license, build passing)? Let me know!
+
+
+
+
+
+
+
+
+
+## Credits
+
+Jika Anda ingin mendukung pengembangan lebih lanjut, beri kredit kepada pengembang berikut:
+
+
+<a class="pin-payment-button" href="https://saweria.co/adminpusat2024"><img src="https://pinpayments.com/pay-button.png" alt="Pay Now" width="86" height="38"></a>
