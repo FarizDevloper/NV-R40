@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://farizdevloper.blogspot.com/">
+    <img src="![ChatGPT Image Apr 16, 2025, 02_50_50 AM](https://github.com/user-attachments/assets/83373781-da1a-4919-bbda-14c71a75de3a)" alt="NV -R 40 logo">
+  </a>
+</p>
+
+<h3 align="center">NV -R 40</h3>
+
+
 # 🛰️⚡ Tactical Thermal Camera System  
 ### *"Eyes in the Dark. Intel in Real-Time."*
 
