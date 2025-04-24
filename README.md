@@ -91,8 +91,7 @@ If you want to contribute in other ways (like coding, bug fixes, or feature sugg
 
 ---
 
-![Thank You](https://www.example.com/thank_you_image.jpg)
-
+![Thank You](https://your-repo-link/path/to/thank_you_image.jpg) 
 
 
 
