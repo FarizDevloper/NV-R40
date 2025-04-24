@@ -91,7 +91,7 @@ If you want to contribute in other ways (like coding, bug fixes, or feature sugg
 
 ---
 
-![Thank You](https://your-repo-link/path/to/thank_you_image.jpg) 
+![Thank You](https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif) 
 
 
 
